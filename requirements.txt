@@ -1,0 +1,8 @@
+openai
+python-dotenv
+pandas
+psycopg2-binary
+numpy
+faiss-cpu
+requests
+beautifulsoup4
